@@ -98,7 +98,7 @@ const Shipping = () => {
                 Our support team is available to assist you during the setup process:
               </p>
               <ul className="list-disc list-inside text-muted-foreground mt-2 space-y-1">
-                <li>Email support: support@cloudbyte.cloud</li>
+                <li>Email support: cloudbyte.cloud</li>
                 <li>Response time: Within 24 hours for standard queries</li>
                 <li>Priority support available for Pro and Ultra plans</li>
               </ul>
